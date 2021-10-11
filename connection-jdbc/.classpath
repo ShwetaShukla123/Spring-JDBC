@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/app/shweta_shukla1/product/18.0.0/dbhomeXE/jdbc/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/spring-dao-2.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/spring-jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="D:/TriNetTraining/spcorejars/spcorejars/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
